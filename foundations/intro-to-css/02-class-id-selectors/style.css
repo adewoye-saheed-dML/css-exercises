@@ -1,1 +1,20 @@
 /* Add CSS Styling */
+.read{
+    background-color: #ffb6c1;
+    font: verdana, "DejaVu Sans";
+    fallback: sans-serif;
+    font-size: 24px;
+}
+.num{
+    font-size: 36px;
+}
+
+#title2{color:blue;
+    font-size: 36px;
+}
+
+#title4{
+    background-color: rgb(152, 245, 152);
+    font-weight: bold;
+    font-size: 24px;
+}
